@@ -1,8 +1,10 @@
 Hi, I’m @Nuvoladog 
   
-I’m interested in IBM 370 mainframe projects, currently trying to re-learn Assembler skills
+I’m interested in IBM 370 mainframe projects, currently trying to re-learn Assembler skills.
  
 Interested in what people are doing with Raspberry Pi and Arduino.
+
+Trying to build my own Z80 project - only 40 years too late!
  
 
 <!---
